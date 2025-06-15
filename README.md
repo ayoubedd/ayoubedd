@@ -5,12 +5,7 @@ I'm a passionate software engineer with a deep fascination for technology. I lov
 ### Stats
 
 ![Ayoub Eddaoudi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayoubedd&show_icons=true&theme=dark&hide_border=true)
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubedd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/ayoubedd/webserv))
-
-### Currently working on
-
-<a href="https://github.com/ayoubedd/lc3-vm"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubedd&repo=lc3-vm&hide_border=true&theme=dark" /></a>
-<a href="https://github.com/ayoubedd/ayoubedd.me"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ayoubedd&repo=ayoubedd.me&hide_border=true&theme=dark" /></a>
+![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubedd&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark)
 
 ### Tools and Languages
 
@@ -26,7 +21,7 @@ I'm a passionate software engineer with a deep fascination for technology. I lov
 <img src="https://img.shields.io/badge/Nix-white?style=for-the-badge&logo=nixos" />
 <img src="https://img.shields.io/badge/Ansible-grey?style=for-the-badge&logo=ansible" />
 <img src="https://img.shields.io/badge/Docker-white?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=GNU Bash" />
+<img src="https://img.shields.io/badge/Bash-white?style=for-the-badge&logo=ZSH" />
 </p>
 
 ```
